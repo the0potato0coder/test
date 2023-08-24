@@ -1,0 +1,5 @@
+{{#user}}
+Name: Jugantar Roy
+Skills: HTML, CSS, JS, React.js
+Email: jugantarroy27@gmail.com
+{{/user}
